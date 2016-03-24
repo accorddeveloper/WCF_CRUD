@@ -1,0 +1,18 @@
+E:\WCF\WcfServiceLibraryData\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe.config
+E:\WCF\WcfServiceLibraryData\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe
+E:\WCF\WcfServiceLibraryData\WindowsFormsClient\bin\Debug\WindowsFormsClient.pdb
+E:\WCF\WcfServiceLibraryData\WindowsFormsClient\obj\Debug\WindowsFormsClient.csprojResolveAssemblyReference.cache
+E:\WCF\WcfServiceLibraryData\WindowsFormsClient\obj\Debug\WindowsFormsClient.Form1.resources
+E:\WCF\WcfServiceLibraryData\WindowsFormsClient\obj\Debug\WindowsFormsClient.Properties.Resources.resources
+E:\WCF\WcfServiceLibraryData\WindowsFormsClient\obj\Debug\WindowsFormsClient.csproj.GenerateResource.Cache
+E:\WCF\WcfServiceLibraryData\WindowsFormsClient\obj\Debug\WindowsFormsClient.exe
+E:\WCF\WcfServiceLibraryData\WindowsFormsClient\obj\Debug\WindowsFormsClient.pdb
+F:\RabbyClass\Class Drive\WCF\WcfServiceLibraryDataCrud\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe.config
+F:\RabbyClass\Class Drive\WCF\WcfServiceLibraryDataCrud\WindowsFormsClient\obj\Debug\WindowsFormsClient.exe
+F:\RabbyClass\Class Drive\WCF\WcfServiceLibraryDataCrud\WindowsFormsClient\obj\Debug\WindowsFormsClient.pdb
+F:\RabbyClass\Class Drive\WCF\WcfServiceLibraryDataCrud\WindowsFormsClient\bin\Debug\WindowsFormsClient.exe
+F:\RabbyClass\Class Drive\WCF\WcfServiceLibraryDataCrud\WindowsFormsClient\bin\Debug\WindowsFormsClient.pdb
+F:\RabbyClass\Class Drive\WCF\WcfServiceLibraryDataCrud\WindowsFormsClient\obj\Debug\WindowsFormsClient.csprojResolveAssemblyReference.cache
+F:\RabbyClass\Class Drive\WCF\WcfServiceLibraryDataCrud\WindowsFormsClient\obj\Debug\WindowsFormsClient.Form1.resources
+F:\RabbyClass\Class Drive\WCF\WcfServiceLibraryDataCrud\WindowsFormsClient\obj\Debug\WindowsFormsClient.Properties.Resources.resources
+F:\RabbyClass\Class Drive\WCF\WcfServiceLibraryDataCrud\WindowsFormsClient\obj\Debug\WindowsFormsClient.csproj.GenerateResource.Cache

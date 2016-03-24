@@ -1,0 +1,13 @@
+E:\WCF\WcfServiceLibraryData\WcfServiceLibraryData\obj\Debug\WcfServiceLibraryData.csprojResolveAssemblyReference.cache
+E:\WCF\WcfServiceLibraryData\WcfServiceLibraryData\bin\Debug\WcfServiceLibraryData.dll.config
+E:\WCF\WcfServiceLibraryData\WcfServiceLibraryData\bin\Debug\WcfServiceLibraryData.dll
+E:\WCF\WcfServiceLibraryData\WcfServiceLibraryData\bin\Debug\WcfServiceLibraryData.pdb
+E:\WCF\WcfServiceLibraryData\WcfServiceLibraryData\bin\Debug\EntityFramework.dll
+E:\WCF\WcfServiceLibraryData\WcfServiceLibraryData\bin\Debug\EntityFramework.SqlServer.dll
+E:\WCF\WcfServiceLibraryData\WcfServiceLibraryData\bin\Debug\EntityFramework.xml
+E:\WCF\WcfServiceLibraryData\WcfServiceLibraryData\bin\Debug\EntityFramework.SqlServer.xml
+E:\WCF\WcfServiceLibraryData\WcfServiceLibraryData\obj\Debug\WcfServiceLibraryData.dll
+E:\WCF\WcfServiceLibraryData\WcfServiceLibraryData\obj\Debug\WcfServiceLibraryData.pdb
+F:\RabbyClass\Class Drive\WCF\WcfServiceLibraryDataCrud\WcfServiceLibraryData\obj\Debug\WcfServiceLibraryData.csprojResolveAssemblyReference.cache
+F:\RabbyClass\Class Drive\WCF\WcfServiceLibraryDataCrud\WcfServiceLibraryData\obj\Debug\WcfServiceLibraryData.dll
+F:\RabbyClass\Class Drive\WCF\WcfServiceLibraryDataCrud\WcfServiceLibraryData\obj\Debug\WcfServiceLibraryData.pdb
